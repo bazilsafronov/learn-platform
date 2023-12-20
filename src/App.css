@@ -1,10 +1,15 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+/* #root { */
+/*   max-width: 1280px; */
+/*   margin: 0 auto; */
+/*   padding: 2rem; */
+/*   text-align: center; */
+/* } */
+body {
+  background-color: #f6f7faff;
 }
 
-.preview {
-  height: 800px;
+.form__register__container {
+  width: 450px;
+  border-radius: 25px;
+  background-color: #fff;
 }
