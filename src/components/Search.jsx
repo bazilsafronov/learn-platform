@@ -1,7 +1,7 @@
 function Search() {
   return (
-    <header className="flex w-full">
-      <nav className="flex p-6 ">
+    <header className="flex">
+      <nav className="flex p-6">
         <div className="flex items-center justify-center sm:items-stretch sm:justify-start">
           <div className="flex flex-shrink-0 items-center">
             <img

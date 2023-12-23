@@ -8,8 +8,17 @@ body {
   background-color: #f6f7faff;
 }
 
-.form__register__container {
-  width: 450px;
-  border-radius: 25px;
-  background-color: #fff;
+/* .form__register__container { */
+/*   width: 450px; */
+/*   border-radius: 25px; */
+/*   background-color: #fff; */
+/* } */
+/**/
+
+#error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
